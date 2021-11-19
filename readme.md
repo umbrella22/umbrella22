@@ -26,5 +26,7 @@
 [![Legion R9000P 2021](https://img.shields.io/badge/Legion%20R9000P%202021-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5-15ARH05/p/88GMY501444)
 [![Legion XiaoXinPro-13 2020](https://img.shields.io/badge/Legion%20XiaoXinPro-13%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5-15ARH05/p/88GMY501444)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umbrella22&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=umbrella22&include_all_commits=true&show_icons=true&hide_title=tru&hide_border=true" />
+
+![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=umbrella22&layout=compact)
+![ReadmeStats-Image](https://github-readme-stats.vercel.app/api?username=umbrella22&show_icons=true&bg_color=ffffff)
+
