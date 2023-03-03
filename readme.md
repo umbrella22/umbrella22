@@ -12,7 +12,6 @@
 ## 🤔 What I'm doing
 
 - Learning Rust/JavaScript/Typescript/Java/Kotlin
-- Saving money to buy a MacBook.
 
 ## 💻 Working environment
 
