@@ -22,7 +22,7 @@
 ## 📱 Devices in use
 
 [![Redmi K30 Pro](https://img.shields.io/badge/Redmi%20K30%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.po.co/global/poco-f2-pro/)
-[![Legion R9000P 2021](https://img.shields.io/badge/Legion%20R9000P%202021-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-5-pro-16ach6h/82jq00faus)
+[![Legion R9000P 2023](https://img.shields.io/badge/Legion%20R9000P%202021-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/p/laptops/legion-laptops/legion-5-series/legion-5-pro-16ach6h/82jq00faus)
 
 
 ![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=umbrella22&layout=compact)
