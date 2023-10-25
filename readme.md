@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-- You can calls me Sky, ikarous and umbrella22. If i can help you, i will be able to be extremely glad(・ω< )★
+- You can calls me Sky, ikaros and umbrella22. If i can help you, i will be able to be extremely glad(・ω< )★
 
 - Favorite languages: TypeScript and JavaScript.
 - Favorite frameworks: Vuejs、electron、webpack、vite.
