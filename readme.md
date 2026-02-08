@@ -25,6 +25,6 @@
 [![Legion R9000P 2024](https://img.shields.io/badge/Legion%20R9000P%202024-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)]()
 
 
-![ReadmeStats-Image](https://github-readme-stats.vercel.app/api/top-langs/?username=umbrella22&layout=compact&hide=html)
-![ReadmeStats-Image](https://github-readme-stats.vercel.app/api?username=umbrella22&show_icons=true&bg_color=ffffff)
+![top-langs](./profile/top-langs.svg)
+![stats](./profile/stats.svg)
 
