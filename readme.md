@@ -24,6 +24,11 @@
 ![Apple iphone 16 Pro](https://img.shields.io/badge/Iphone%2016%20Pro-00adef?style=flat-square&logo=Apple&logoColor=ffffff)
 [![Legion R9000P 2024](https://img.shields.io/badge/Legion%20R9000P%202024-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)]()
 
-
-![stats](./profile/stats.svg)
-![top-langs](./profile/top-langs.svg)
+<div>
+  <span>
+    <img height=165 align="center" src="./profile/stats.svg" />
+  </span>
+  <span>
+    <img height=165 align="center" src="./profile/top-langs.svg" />
+  </span>
+</div>
