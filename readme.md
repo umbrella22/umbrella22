@@ -25,6 +25,5 @@
 [![Legion R9000P 2024](https://img.shields.io/badge/Legion%20R9000P%202024-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)]()
 
 
-![top-langs](./profile/top-langs.svg)
 ![stats](./profile/stats.svg)
-
+![top-langs](./profile/top-langs.svg)
