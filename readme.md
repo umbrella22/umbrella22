@@ -17,7 +17,7 @@
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 [![macOS](https://img.shields.io/badge/macOS-00adef?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![Android 16](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-16)
+[![Android 16](https://img.shields.io/badge/Android%2016-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-16)
 
 ## 📱 Devices in use
 
