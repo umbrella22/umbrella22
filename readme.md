@@ -7,7 +7,7 @@
 
 - Good languages: Java Kotlin Rust
 
-- Side projects: [electron-vue-template](https://github.com/umbrella22/electron-vue-template)、[electron-vite-template](https://github.com/umbrella22/electron-vite-template)
+- Side projects: [electron-vue-template](https://github.com/umbrella22/electron-vue-template)、[electron-vite-template](https://github.com/umbrella22/electron-vite-template)、[Vesper](https://github.com/umbrella22/Vesper)、[GLM-for-copilot](https://github.com/umbrella22/GLM-for-copilot)
 
 ## 🤔 What I'm doing
 
